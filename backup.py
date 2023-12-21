@@ -5,8 +5,8 @@ import datetime
 import time
 
 
-src_dir = "C:/Users/DELL/Pictures/Screenshots"
-dest_dir = "C:/Users/DELL/backup_files"
+src_dir = "C:/Path/to/Copy/From"
+dest_dir = "C:/Folder/to/Copy/to"
 
 
 def copy_Folder_to_Directory(src_dir, dest_dir):
