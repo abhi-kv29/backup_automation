@@ -4,6 +4,7 @@ import shutil
 import datetime
 import time
 
+# Automation Script to take backup of folders
 
 src_dir = "C:/Path/to/Copy/From"
 dest_dir = "C:/Folder/to/Copy/to"
